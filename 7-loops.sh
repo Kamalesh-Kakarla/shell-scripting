@@ -3,7 +3,7 @@
 
 #while loop will run based on the expression
 
-a=10
+a=15
 while [ $a -gt 0 ]; do
   echo "Hello, Welcome"
   a=$(($a-1))
