@@ -1,7 +1,7 @@
 greetings(){
 echo Hello, Good morning
 echo Welcome to the shell scripting!
-exit
+return 10
 echo Good to have you here...
 }
 
