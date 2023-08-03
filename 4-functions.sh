@@ -16,4 +16,4 @@ echo All Arguments - $*
 echo No. of Arguments - $#
 }
 
-input KK 12
+input KK 123
